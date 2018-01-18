@@ -5,11 +5,8 @@ Collect valuable resources for learning React.js
 
 ## About Progressive Web App
 [Progressive Web Apps with React.js: Part I — Introduction][1]
+
 [Progressive Web Apps with React.js: Part 2 — Page Load Performance][2]
-
-
-----------
-
 
 [Cut your Web Application’s Load Time in Half with These Webpack Optimization Techniques][3]
 
