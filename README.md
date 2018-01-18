@@ -3,7 +3,7 @@ Collect valuable resources for learning React.js
 
 ----------
 
-##About Progressive Web App
+## About Progressive Web App
 [Progressive Web Apps with React.js: Part I — Introduction][1]
 [Progressive Web Apps with React.js: Part 2 — Page Load Performance][2]
 
